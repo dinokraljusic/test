@@ -6,3 +6,4 @@ bugs free;
 //ne trebaju mi ne trebaju mi
 //dokazujem da je api glup
 //eh proglašeno
+//joj
