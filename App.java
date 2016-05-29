@@ -1,4 +1,4 @@
 import all;
 bugs free;
 
-//nova linija
+//nova linija sa dodatkom
